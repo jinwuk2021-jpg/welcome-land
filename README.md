@@ -78,7 +78,7 @@ npm start
 - The site uses custom web components and animations
 - All assets are included in the repository
 - Render provides automatic SSL certificates for HTTPS
-
+- Dont push .env file
 ---
 
 **Live URL:** (Will be provided by Render after deployment)
