@@ -15,13 +15,14 @@ app.use((req, res, next) => {
 app.use('/assets', express.static(path.join(__dirname, 'assets')));
 app.use('/_check', express.static(path.join(__dirname, '_check')));
 
-// Serve JS files
-app.get('/novel-ch1.js', (req, res) => {
-  res.sendFile(path.join(__dirname, 'novel-ch1.js'));
-});
-
-app.get('/support.js', (req, res) => {
-  res.sendFile(path.join(__dirname, 'support.js'));
+// Serve root-level JS files (novel-ch1.js … novel-ch6.js, support.js, etc.)
+app.get(/^\/[\w-]+\.js$/, (req, res) => {
+  const filePath = path.join(__dirname, path.basename(req.path));
+  if (fs.existsSync(filePath)) {
+    res.sendFile(filePath);
+  } else {
+    res.status(404).send('Not Found');
+  }
 });
 
 // Route for the main HTML file
