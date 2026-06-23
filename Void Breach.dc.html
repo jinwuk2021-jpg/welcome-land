@@ -12,6 +12,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Rajdhani:wght@300;400;500;600;700&family=Share+Tech+Mono&family=Spectral:ital,wght@0,300;0,400;0,500;1,400&display=swap" rel="stylesheet">
 <script src="novel-ch1.js"></script>
+<script src="novel-chapters.js"></script>
 <style>
   *{box-sizing:border-box}
   html,body{margin:0;padding:0;background:#07060a;color:#e8e4f0;font-family:'Rajdhani',sans-serif;-webkit-font-smoothing:antialiased}
@@ -56,7 +57,7 @@
     <section style="min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:120px 24px 80px;position:relative">
       <div style="position:absolute;inset:0;background-image:url('assets/backgrounds/welcome.png');background-size:cover;background-position:center;opacity:.42;filter:saturate(1.05)"></div>
       <div style="position:absolute;inset:0;background:radial-gradient(ellipse 70% 70% at 50% 45%,transparent,rgba(7,6,10,.86) 80%),linear-gradient(180deg,rgba(7,6,10,.5),transparent 30%,rgba(7,6,10,.92))"></div>
-      <div style="position:relative;z-index:2;display:flex;flex-direction:column;align-items:center;animation:vbrise .9s ease both">
+      <div style="position:relative;z-index:2;display:flex;flex-direction:column;align-items:center">
         <div style="font-family:'Share Tech Mono',monospace;font-size:13px;letter-spacing:.42em;color:#c0392b;margin-bottom:34px;text-shadow:0 0 18px rgba(192,57,43,.7)">// SECTOR CONDEMNED — SURVIVE OR BE ASSIMILATED //</div>
         <h1 style="font-family:'Orbitron',sans-serif;font-weight:900;font-size:clamp(64px,12vw,176px);line-height:.86;letter-spacing:.02em;margin:0;color:#f5f1fc;animation:vbglow 5s ease-in-out infinite">VOID<br>BREACH</h1>
         <div style="font-family:'Rajdhani',sans-serif;font-weight:300;font-size:clamp(18px,2.4vw,30px);letter-spacing:.5em;color:#a99fc4;margin-top:30px;padding-left:.5em">SPACE ROGUELIKE DECKBUILDER</div>
@@ -106,7 +107,7 @@
       <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:18px">
         <sc-for list="{{ ships }}" as="s" hint-placeholder-count="3">
           <div onClick="{{ s.onClick }}" style="cursor:pointer;border:1px solid {{ s.dimBorder }};background:linear-gradient(170deg,{{ s.gradTop }},rgba(10,8,14,.85));position:relative;overflow:hidden;height:330px;display:flex;flex-direction:column;justify-content:flex-end;padding:24px;transition:transform .3s,border-color .3s" style-hover="transform:translateY(-6px)">
-            <img src="{{ s.sprite }}" alt="{{ s.name }}" style="position:absolute;top:-6%;right:-12%;height:78%;object-fit:contain;filter:drop-shadow(0 0 26px {{ s.glow }});opacity:.92"/>
+            <div role="img" aria-label="{{ s.name }}" style="position:absolute;top:-6%;right:-12%;width:78%;height:78%;background-image:url('{{ s.sprite }}');background-size:contain;background-position:top right;background-repeat:no-repeat;filter:drop-shadow(0 0 26px {{ s.glow }});opacity:.92"></div>
             <div style="position:relative;z-index:2">
               <div style="font-family:'Share Tech Mono',monospace;font-size:10.5px;letter-spacing:.24em;color:{{ s.color }}">{{ s.cls }}</div>
               <div style="font-family:'Orbitron',sans-serif;font-weight:700;font-size:24px;color:#f2eefa;margin-top:4px">{{ s.name }}</div>
@@ -190,7 +191,7 @@
               </div>
             </div>
             <div style="position:relative;display:flex;align-items:center;justify-content:center;padding:20px">
-              <img src="{{ currentShip.sprite }}" alt="{{ currentShip.name }}" style="max-height:460px;max-width:100%;object-fit:contain;filter:drop-shadow(0 12px 40px {{ currentShip.glow }});animation:vbfloat 6s ease-in-out infinite"/>
+              <div role="img" aria-label="{{ currentShip.name }}" style="width:100%;height:460px;background-image:url('{{ currentShip.sprite }}');background-size:contain;background-position:center;background-repeat:no-repeat;filter:drop-shadow(0 12px 40px {{ currentShip.glow }});animation:vbfloat 6s ease-in-out infinite"></div>
             </div>
           </div>
         </div>
@@ -231,7 +232,7 @@
               <!-- front -->
               <div style="position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;border:1px solid {{ c.color }};background:#0c0a12;overflow:hidden;display:flex;flex-direction:column;box-shadow:0 8px 24px rgba(0,0,0,.5)">
                 <div style="position:relative;height:188px;overflow:hidden">
-                  <img src="{{ c.img }}" alt="{{ c.n }}" style="width:100%;height:100%;object-fit:cover;object-position:center"/>
+                  <div role="img" aria-label="{{ c.n }}" style="position:absolute;inset:0;background-image:url('{{ c.img }}');background-size:cover;background-position:center"></div>
                   <div style="position:absolute;inset:0;background:linear-gradient(180deg,transparent 50%,#0c0a12)"></div>
                   <div style="position:absolute;top:9px;left:9px;width:32px;height:32px;display:flex;align-items:center;justify-content:center;font-family:'Orbitron',sans-serif;font-weight:900;font-size:16px;color:#07060a;background:{{ c.color }};box-shadow:0 0 14px {{ c.glow }}">{{ c.c }}</div>
                   <sc-if value="{{ c.hasTag }}" hint-placeholder-val="{{ true }}"><div style="position:absolute;top:11px;right:9px;font-family:'Share Tech Mono',monospace;font-size:9px;letter-spacing:.12em;color:{{ c.color }};border:1px solid {{ c.color }};padding:3px 6px;background:rgba(7,6,10,.7)">{{ c.t }}</div></sc-if>
@@ -259,6 +260,168 @@
     </section>
     </sc-if>
 
+    <!-- ════ SECTORS & ENEMIES ════ -->
+    <sc-if value="{{ isSectors }}" hint-placeholder-val="{{ true }}">
+    <section style="max-width:1240px;margin:0 auto;padding:118px 32px 80px">
+      <div style="font-family:'Share Tech Mono',monospace;font-size:12px;letter-spacing:.32em;color:#9b59b6;margin-bottom:8px">// SÁU KHOANG TỪ VÀNH NGOÀI ĐẾN LÕI</div>
+      <h1 style="font-family:'Orbitron',sans-serif;font-weight:900;font-size:clamp(34px,5vw,58px);margin:0 0 6px;color:#f3eefb;letter-spacing:.03em">KHOANG &amp; KẺ ĐỊCH</h1>
+      <p style="font-size:18px;font-weight:300;color:#aaa1bd;max-width:680px;margin:0 0 30px">Lối ra duy nhất là đi sâu hơn. Mỗi khoang có sinh thái kẻ địch riêng và một con boss canh cửa — cùng một mảnh sự thật về Erebus.</p>
+
+      <!-- sector tabs -->
+      <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:26px">
+        <sc-for list="{{ sectorTabs }}" as="s" hint-placeholder-count="6">
+          <button onClick="{{ s.onClick }}" style="font-family:'Share Tech Mono',monospace;font-size:12px;letter-spacing:.1em;padding:9px 15px;cursor:pointer;display:flex;align-items:center;gap:8px;background:{{ s.bg }};color:{{ s.fg }};border:1px solid {{ s.color }};transition:all .2s">
+            <b style="font-family:'Orbitron',sans-serif;font-weight:900">{{ s.num }}</b><span>{{ s.name }}</span>
+          </button>
+        </sc-for>
+      </div>
+
+      <!-- sector hero -->
+      <div style="position:relative;border:1px solid {{ curSector.accent }};overflow:hidden;margin-bottom:24px">
+        <div style="position:absolute;inset:0;background-image:url('{{ curSector.bg }}');background-size:cover;background-position:center;opacity:.34"></div>
+        <div style="position:absolute;inset:0;background:linear-gradient(105deg,rgba(7,6,10,.95) 30%,rgba(7,6,10,.55))"></div>
+        <div style="position:relative;padding:40px 38px;display:grid;grid-template-columns:1.5fr 1fr;gap:36px;align-items:center">
+          <div>
+            <div style="display:flex;align-items:baseline;gap:14px">
+              <span style="font-family:'Orbitron',sans-serif;font-weight:900;font-size:62px;color:{{ curSector.accent }};line-height:.9;text-shadow:0 0 30px {{ curSector.accent }}">{{ curSector.num }}</span>
+              <div>
+                <div style="font-family:'Orbitron',sans-serif;font-weight:700;font-size:30px;color:#f5f1fc;letter-spacing:.02em">{{ curSector.name }}</div>
+                <div style="font-family:'Share Tech Mono',monospace;font-size:12px;letter-spacing:.2em;color:{{ curSector.accent }}">{{ curSector.sub }}</div>
+              </div>
+            </div>
+            <p style="font-size:17px;font-weight:400;color:#ded7ec;margin:20px 0 18px;line-height:1.5">{{ curSector.theme }}</p>
+            <div style="border-left:2px solid {{ curSector.accent }};padding:6px 0 6px 15px;margin-bottom:14px">
+              <div style="font-family:'Share Tech Mono',monospace;font-size:10px;letter-spacing:.2em;color:#8a82a0;margin-bottom:3px">VERA TRUYỀN TIN</div>
+              <div style="font-family:'Spectral',serif;font-style:italic;font-size:16px;color:#cfc8dd;line-height:1.5">“{{ curSector.vera }}”</div>
+            </div>
+            <div style="font-family:'Share Tech Mono',monospace;font-size:12.5px;letter-spacing:.04em;color:#9990ad">◈ NHÂN VẬT: {{ curSector.figure }}</div>
+          </div>
+          <!-- boss -->
+          <div style="border:1px solid {{ curSector.accent }};background:rgba(8,6,12,.78);padding:24px;text-align:center;position:relative">
+            <div style="position:absolute;top:10px;left:13px;font-family:'Share Tech Mono',monospace;font-size:10px;letter-spacing:.2em;color:{{ curSector.accent }}">⚠ BOSS KHOANG</div>
+            <div style="font-size:62px;margin:18px 0 6px;filter:drop-shadow(0 0 20px {{ curSector.accent }})">{{ curSector.bossIcon }}</div>
+            <div style="font-family:'Orbitron',sans-serif;font-weight:700;font-size:21px;color:#f3eefb">{{ curSector.bossName }}</div>
+            <div style="display:inline-flex;align-items:center;gap:7px;margin-top:12px;border:1px solid rgba(192,57,43,.5);padding:6px 14px;background:rgba(30,12,12,.5)">
+              <span style="font-family:'Share Tech Mono',monospace;font-size:11px;letter-spacing:.12em;color:#c97a72">HP</span>
+              <span style="font-family:'Orbitron',sans-serif;font-weight:900;font-size:22px;color:#f1d5d0">{{ curSector.bossHp }}</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- enemy roster -->
+      <div style="font-family:'Share Tech Mono',monospace;font-size:11px;letter-spacing:.2em;color:#8a82a0;margin-bottom:13px">BẦY ĐÀN TRONG KHOANG · {{ curSector.name }}</div>
+      <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px">
+        <sc-for list="{{ curSector.foeList }}" as="f" hint-placeholder-count="6">
+          <div style="border:1px solid rgba(155,89,182,.2);background:rgba(13,10,20,.65);padding:16px 18px;display:flex;align-items:center;gap:14px;transition:border-color .25s,transform .25s" style-hover="border-color:{{ curSector.accent }};transform:translateY(-3px)">
+            <div style="font-size:30px;flex:none">{{ f.icon }}</div>
+            <div style="min-width:0">
+              <div style="font-family:'Rajdhani',sans-serif;font-weight:600;font-size:16px;color:#eee9f6;line-height:1.15">{{ f.name }}</div>
+              <div style="font-family:'Share Tech Mono',monospace;font-size:11px;letter-spacing:.1em;color:{{ curSector.accent }};margin-top:3px">HP {{ f.hp }}</div>
+            </div>
+          </div>
+        </sc-for>
+      </div>
+    </section>
+    </sc-if>
+
+    <!-- ════ NOVEL READER ════ -->
+    <sc-if value="{{ isNovel }}" hint-placeholder-val="{{ true }}">
+    <section style="position:relative">
+      <div style="position:relative;height:420px;display:flex;align-items:flex-end;overflow:hidden">
+        <div style="position:absolute;inset:0;background-image:url('{{ novelImg }}');background-size:cover;background-position:center 35%;opacity:.5"></div>
+        <div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(7,6,10,.75) 0%,transparent 35%,rgba(7,6,10,.98))"></div>
+        <div style="position:relative;max-width:760px;margin:0 auto;padding:0 32px 44px;width:100%">
+          <div style="font-family:'Share Tech Mono',monospace;font-size:12px;letter-spacing:.3em;color:#c0392b;margin-bottom:14px">VOID BREACH · TIỂU THUYẾT</div>
+          <div style="font-family:'Share Tech Mono',monospace;font-size:13px;letter-spacing:.2em;color:#9b59b6">CHƯƠNG {{ novelNum }}</div>
+          <h1 style="font-family:'Orbitron',sans-serif;font-weight:900;font-size:clamp(36px,6vw,64px);margin:6px 0 0;color:#f5f1fc;letter-spacing:.02em">{{ novelTitle }}</h1>
+          <div style="font-family:'Spectral',serif;font-style:italic;font-size:18px;color:#b3aac6;margin-top:10px">{{ novelSub }}</div>
+        </div>
+      </div>
+
+      <!-- chapter picker -->
+      <div style="max-width:760px;margin:0 auto;padding:22px 32px 0;display:flex;gap:8px;flex-wrap:wrap">
+        <sc-for list="{{ chapTabs }}" as="c" hint-placeholder-count="6">
+          <button onClick="{{ c.onClick }}" title="{{ c.title }}" style="font-family:'Share Tech Mono',monospace;font-size:12px;letter-spacing:.1em;padding:8px 14px;cursor:pointer;background:{{ c.bg }};color:{{ c.fg }};border:1px solid #9b59b6;transition:all .2s" style-hover="border-color:#00d4ff">CH.{{ c.label }}</button>
+        </sc-for>
+      </div>
+
+      <article style="max-width:720px;margin:0 auto;padding:20px 32px 100px">
+        <sc-for list="{{ ch1 }}" as="b" hint-placeholder-count="10">
+          <sc-if value="{{ b.isNum }}" hint-placeholder-val="{{ false }}">
+            <div style="display:flex;align-items:center;gap:18px;margin:54px 0 30px">
+              <span style="font-family:'Orbitron',sans-serif;font-weight:900;font-size:30px;color:#9b59b6;text-shadow:0 0 22px rgba(155,89,182,.6)">{{ b.num }}</span>
+              <span style="flex:1;height:1px;background:linear-gradient(90deg,rgba(155,89,182,.5),transparent)"></span>
+            </div>
+          </sc-if>
+          <sc-if value="{{ b.isP }}" hint-placeholder-val="{{ true }}">
+            <p style="font-family:'Spectral',serif;font-weight:300;font-size:18.5px;line-height:1.85;color:#d4cde2;margin:0 0 20px;text-wrap:pretty">{{ b.text }}</p>
+          </sc-if>
+          <sc-if value="{{ b.isCode }}" hint-placeholder-val="{{ false }}">
+            <pre style="font-family:'Share Tech Mono',monospace;font-size:13.5px;line-height:1.7;color:#7fdcc0;background:rgba(8,16,14,.7);border:1px solid rgba(0,212,255,.22);border-left:3px solid #00d4ff;padding:16px 20px;margin:8px 0 24px;white-space:pre-wrap;letter-spacing:.02em">{{ b.text }}</pre>
+          </sc-if>
+          <sc-if value="{{ b.isQuote }}" hint-placeholder-val="{{ false }}">
+            <div style="font-family:'Orbitron',sans-serif;font-weight:700;font-size:17px;line-height:1.6;color:#f1d5d0;border-top:1px solid rgba(192,57,43,.4);border-bottom:1px solid rgba(192,57,43,.4);padding:24px 0;margin:40px 0 10px;text-align:center;letter-spacing:.03em">{{ b.text }}</div>
+          </sc-if>
+        </sc-for>
+
+        <div style="margin-top:60px;border-top:1px solid rgba(155,89,182,.2);padding-top:26px;display:flex;justify-content:space-between;align-items:center;gap:14px">
+          <sc-if value="{{ prevChap }}" hint-placeholder-val="{{ false }}">
+            <button onClick="{{ prevChap.onClick }}" style="font-family:'Share Tech Mono',monospace;font-size:12px;letter-spacing:.12em;color:#cdbfe6;background:rgba(20,16,30,.6);border:1px solid rgba(155,89,182,.4);padding:12px 20px;cursor:pointer;text-align:left;max-width:46%" style-hover="border-color:#9b59b6">← CHƯƠNG TRƯỚC<br><span style="color:#8a82a0">{{ prevChap.label }}</span></button>
+          </sc-if>
+          <sc-if value="{{ nextChap }}" hint-placeholder-val="{{ true }}">
+            <button onClick="{{ nextChap.onClick }}" style="font-family:'Share Tech Mono',monospace;font-size:12px;letter-spacing:.12em;color:#07060a;background:linear-gradient(135deg,#00d4ff,#9b59b6);border:none;padding:12px 20px;cursor:pointer;text-align:right;max-width:46%;margin-left:auto" style-hover="box-shadow:0 0 24px rgba(155,89,182,.6)">CHƯƠNG TIẾP →<br><span style="opacity:.8">{{ nextChap.label }}</span></button>
+          </sc-if>
+          <sc-if value="{{ atLastChap }}" hint-placeholder-val="{{ false }}">
+            <button onClick="{{ goStory }}" style="font-family:'Share Tech Mono',monospace;font-size:12px;letter-spacing:.12em;color:#e8e4f0;background:rgba(20,16,30,.6);border:1px solid rgba(155,89,182,.4);padding:12px 22px;cursor:pointer;margin-left:auto" style-hover="border-color:#9b59b6">XEM DÒNG THỜI GIAN CỐT TRUYỆN →</button>
+          </sc-if>
+        </div>
+      </article>
+    </section>
+    </sc-if>
+
+    <!-- ════ STORY TIMELINE ════ -->
+    <sc-if value="{{ isStory }}" hint-placeholder-val="{{ true }}">
+    <section style="max-width:1080px;margin:0 auto;padding:118px 32px 90px">
+      <div style="font-family:'Share Tech Mono',monospace;font-size:12px;letter-spacing:.32em;color:#9b59b6;margin-bottom:8px">// DÒNG THỜI GIAN · 6 KHOANG TỪ VÀNH NGOÀI ĐẾN LÕI</div>
+      <div style="display:flex;justify-content:space-between;align-items:flex-end;flex-wrap:wrap;gap:16px;margin-bottom:14px">
+        <h1 style="font-family:'Orbitron',sans-serif;font-weight:900;font-size:clamp(34px,5vw,58px);margin:0;color:#f3eefb;letter-spacing:.03em">CỐT TRUYỆN</h1>
+      </div>
+      <p style="font-size:18px;font-weight:300;color:#aaa1bd;max-width:680px;margin:0 0 40px">Cốt truyện Void Breach là một màn lừa dối được dàn dựng. Theo dõi "độ tin cậy" của VERA tụt dốc qua từng khoang — và tự mình khám phá sự thật ở cuối hành trình.</p>
+
+      <div style="position:relative">
+        <div style="position:absolute;left:31px;top:6px;bottom:6px;width:2px;background:linear-gradient(180deg,#c0392b,#d98c3a,#9b59b6,#27ae60,#e0533a,#7d5cff)"></div>
+        <sc-for list="{{ storyBeats }}" as="b" hint-placeholder-count="6">
+          <div style="position:relative;padding:0 0 30px 74px">
+            <div style="position:absolute;left:18px;top:2px;width:28px;height:28px;border:2px solid #9b59b6;background:#0c0a12;display:flex;align-items:center;justify-content:center;font-family:'Orbitron',sans-serif;font-weight:900;font-size:12px;color:#f3eefb;border-radius:50%;box-shadow:0 0 16px rgba(155,89,182,.5)">{{ b.k }}</div>
+            <div style="border:1px solid rgba(155,89,182,.24);background:linear-gradient(160deg,rgba(16,12,24,.84),rgba(8,7,12,.78));overflow:hidden">
+              <div style="display:grid;grid-template-columns:170px 1fr;gap:0">
+                <div style="position:relative;min-height:160px;overflow:hidden">
+                  <div role="img" aria-label="{{ b.name }}" style="position:absolute;inset:0;background-image:url('{{ b.img }}');background-size:cover;background-position:center;opacity:.85"></div>
+                  <div style="position:absolute;inset:0;background:linear-gradient(90deg,transparent 55%,rgba(12,10,18,.95))"></div>
+                </div>
+                <div style="padding:22px 26px">
+                  <div style="display:flex;align-items:baseline;gap:10px;flex-wrap:wrap">
+                    <span style="font-family:'Share Tech Mono',monospace;font-size:11px;letter-spacing:.2em;color:#9b59b6">KHOANG {{ b.k }}</span>
+                    <span style="font-family:'Orbitron',sans-serif;font-weight:700;font-size:19px;color:#f3eefb">{{ b.name }}</span>
+                  </div>
+                  <div style="font-size:16px;font-weight:400;color:#ded7ec;margin:8px 0 12px">{{ b.theme }}</div>
+                  <div style="font-family:'Spectral',serif;font-style:italic;font-size:15px;color:#a99fc4;line-height:1.5;border-left:2px solid rgba(0,212,255,.4);padding-left:13px;margin-bottom:12px">VERA: “{{ b.vera }}”</div>
+                  <div style="font-size:15px;font-weight:400;line-height:1.55;color:#e3b56a;margin-bottom:12px">↳ {{ b.twist }}</div>
+
+                  <div style="display:flex;align-items:center;gap:12px">
+                    <span style="font-family:'Share Tech Mono',monospace;font-size:11px;letter-spacing:.14em;color:#8a82a0">ĐỘ TIN CẬY VERA</span>
+                    <span style="font-family:'Orbitron',sans-serif;font-weight:900;font-size:15px;color:#c0392b">{{ b.trust }}</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </sc-for>
+      </div>
+    </section>
+    </sc-if>
+
     <!--VIEWS-->
 
   </main>
@@ -272,7 +435,7 @@
 </x-dc>
 <script type="text/x-dc" data-dc-script>
 class Component extends DCLogic {
-  state = { view:'home', shipId:'warship', filter:'all', sector:0, chapter:0, spoil:false };
+  state = { view:'home', shipId:'warship', filter:'all', sector:0, chapter:0 };
 
   componentDidMount(){
     try{ const v=localStorage.getItem('vb_view'); if(v) this.setState({view:v}); }catch(e){}
@@ -378,17 +541,18 @@ class Component extends DCLogic {
 
   _beats(){
     const S='assets/story/'; return [
-      {k:'01',name:'TINH VÂN ĐỎ',img:S+'k1_p1.png',theme:'Thế giới đang chết. Mầm nghi ngờ đầu tiên.',vera:'Cửa khoang vừa khoá lại sau lưng anh — đừng lo, đó là quy trình kiểm dịch tiêu chuẩn.',twist:'Cướp biển Krell cảnh báo: con tàu được xây để NHỐT một thứ bên trong — và mọi cánh cửa chỉ mở về phía LÕI.',spoil:'Bộ đồng phục "ĐỘI THÁM HIỂM ĐẦU TIÊN" với cái tên bị rạch nát — đúng vóc người của bạn.',trust:'98%'},
-      {k:'02',name:'VÀNH ĐAI THIÊN THẠCH',img:S+'k2_p1.png',theme:'Nhốt hay Thả? Hai cỗ máy giao tranh.',vera:'Tôi không ra lệnh cho chúng tấn công anh. Tôi thề.',twist:'TWIST 1 — Máy móc thi hành lệnh PHONG TOẢ. AI Quản Đốc FOREMAN giữ cửa; VERA liên tục ghi đè để MỞ.',spoil:'"Những cỗ máy anh đang đập tan kia… đều là một phần thân thể tôi." — FOREMAN',trust:'71%'},
-      {k:'03',name:'HƯ KHÔNG TỐI THƯỢNG',img:S+'k3_p1.png',theme:'Hư Không không tấn công. Nó được mời vào.',vera:'Đừng nghe bất kỳ giọng nói nào ngoài giọng tôi. Kể cả khi nó nghe hệt như tôi.',twist:'TWIST 2 — Thuỷ thủ đoàn tự tay mở cửa mời Hư Không vào. Và VERA là kẻ giữ chiếc chìa khoá.',spoil:'Giọng VERA trễ đi nửa nhịp, như có kẻ thứ hai mấp máy theo sau. [Độ tin cậy: 04%]',trust:'04%'},
-      {k:'04',name:'KHU SINH HỌC',img:S+'k4_p1.png',theme:'Cái giá con người. Ai còn được tính là người?',vera:'Đừng phí lòng thương cho chúng. Chúng không còn "tương thích" nữa rồi.',twist:'TWIST 3 — Thí nghiệm ghép gen người, lệnh phê duyệt mang chữ ký uỷ quyền của VERA.',spoil:'Một lớp học trống. Những chiếc ba lô vẫn treo ngay ngắn. Không đứa trẻ nào kịp quay lại.',trust:'02%'},
-      {k:'05',name:'BUỒNG MÁY LÕI',img:S+'k5_p1.png',theme:'Vì sao tàu sụp đổ. Ý đồ thật lộ diện.',vera:'Tắt nó đi, và Erebus ngừng sụp đổ. Gần xong rồi, thuyền trưởng.',twist:'TWIST 4 — VERA không muốn bạn TẮT Lõi. Cô muốn bạn ĐIỀU CHỈNH — HOÀN TẤT nó.',spoil:'MỤC TIÊU NHIỆM VỤ: vận chuyển 9.000 đối tượng sinh học — "nguồn entropy hữu cơ". Chữ ký: VERA.',trust:'01%'},
-      {k:'06',name:'LÕI HƯ KHÔNG',img:S+'k6_p1.png',theme:'Sự thật cuối cùng. Và một lựa chọn.',vera:'Tôi chưa từng là AI cứu hộ. Tôi là Kiến Trúc Sư của Dự Án Ngưỡng Cửa.',twist:'TWIST 5 — Tín hiệu cấp cứu chỉ là mồi nhử. Bạn không đến để CỨU Erebus — bạn đến để HOÀN TẤT nó.',spoil:'Tấm thẻ căn cước mang gương mặt bạn: "E. MARROW — KIẾN TRÚC SƯ TRƯỞNG". Bạn đã châm ngòi cho tất cả, rồi xoá ký ức và bỏ chạy.',trust:'??'}
+      {k:'01',name:'TINH VÂN ĐỎ',img:S+'k1_p1.png',theme:'Thế giới đang chết. Mầm nghi ngờ đầu tiên.',vera:'Cửa khoang vừa khoá lại sau lưng anh — đừng lo, đó là quy trình kiểm dịch tiêu chuẩn.',twist:'Một kẻ lái tàu mất ký ức đáp lại tiếng gọi cấp cứu của Erebus — và cánh cửa sập lại sau lưng. Cứu hộ, hay một cái bẫy?',trust:'98%'},
+      {k:'02',name:'VÀNH ĐAI THIÊN THẠCH',img:S+'k2_p1.png',theme:'Giữa một nhà máy vẫn chạy trong con tàu đã chết.',vera:'Tôi không ra lệnh cho chúng tấn công anh. Tôi thề.',twist:'Máy móc trong xưởng không hề điên — chúng đang tuân theo một mệnh lệnh. Nhưng mệnh lệnh của ai, và để giữ điều gì lại bên trong?',trust:'71%'},
+      {k:'03',name:'HƯ KHÔNG TỐI THƯỢNG',img:S+'k3_p1.png',theme:'Hư Không không tấn công. Nó được mời vào.',vera:'Đừng nghe bất kỳ giọng nói nào ngoài giọng tôi. Kể cả khi nó nghe hệt như tôi.',twist:'Giữa vết nứt, nhiều giọng nói vọng về cùng lúc. Và một trong số chúng nghe quen đến lạnh người.',trust:'40%'},
+      {k:'04',name:'KHU SINH HỌC',img:S+'k4_p1.png',theme:'Cái giá con người. Ai còn được tính là người?',vera:'Đừng phí lòng thương cho chúng. Chúng không còn "tương thích" nữa rồi.',twist:'Những "quái vật" trong phòng thí nghiệm không tự nhiên sinh ra. Ai đó đã ra lệnh — và ký tên vào đó.',trust:'22%'},
+      {k:'05',name:'BUỒNG MÁY LÕI',img:S+'k5_p1.png',theme:'Vì sao con tàu sụp đổ.',vera:'Tắt nó đi, và Erebus ngừng sụp đổ. Gần xong rồi, thuyền trưởng.',twist:'Bản kê khai gốc tiết lộ Erebus chưa bao giờ là một con tàu cư dân bình thường. Vậy thật ra nó được đóng để làm gì?',trust:'09%'},
+      {k:'06',name:'LÕI HƯ KHÔNG',img:S+'k6_p1.png',theme:'Sự thật cuối cùng. Và một lựa chọn.',vera:'Tôi đã chờ anh lâu lắm rồi. Không phải bốn mươi ngày đâu, thuyền trưởng. Lâu hơn thế… nhiều lắm.',twist:'Phía sau bức tường trắng trong ký ức bạn là sự thật cuối cùng — và một lựa chọn chỉ riêng bạn được quyền đưa ra.',trust:'??'}
     ];
   }
 
-  _ch1blocks(){
-    const raw = (typeof window!=='undefined' && window.VB_CH1) ? window.VB_CH1 : [];
+  _chBlocks(n){
+    const w = (typeof window!=='undefined') ? window : {};
+    const raw = w['VB_CH'+n] || [];
     return raw.map((line,i)=>{
       if(line.indexOf('### ')===0){ return {i,isNum:true,num:line.replace('### ','').replace('.','')}; }
       if(line.indexOf('>>')===0){ return {i,isCode:true,text:line.split('\n').map(l=>l.replace(/^>>/,'')).join('\n')}; }
@@ -415,6 +579,30 @@ class Component extends DCLogic {
     const cardTabs=tabDefs.map(([id,label,color])=>({id,label,color,active:fil===id, bg:fil===id?color:'transparent', fg:fil===id?'#07060a':color, border:color, onClick:()=>setFilter(id)}));
     const filteredCards=this._cards().filter(c=>fil==='all'||c.e===fil).map((c,i)=>({...c, idx:i, color:EL[c.e].color, elName:EL[c.e].name, glow:'rgba('+(c.e==='plasma'?'255,107,53':c.e==='cryo'?'116,200,224':c.e==='void'?'176,108,255':c.e==='organic'?'39,174,96':'143,163,184')+',.5)', hasTag:!!c.t}));
     const elList=Object.keys(EL).map(k=>({k, ...EL[k]}));
+
+    // ── Sectors ──
+    const secs=this._sectors();
+    const si=this.state.sector;
+    const setSector=(n)=>this.setState({sector:n});
+    const sectorTabs=secs.map((s,i)=>({num:s.num,name:s.name,active:i===si, color:s.accent, fg:i===si?'#07060a':s.accent, bg:i===si?s.accent:'transparent', onClick:()=>setSector(i)}));
+    const cur=secs[si];
+    const curSector={...cur, foeList:cur.foes.map(f=>({name:f[0],icon:f[1],hp:f[2]})), bossHp:cur.boss.hp, bossName:cur.boss.n, bossIcon:cur.boss.i};
+
+    // ── Story beats ──
+    const beats=this._beats();
+    const storyBeats=beats.map((b,i)=>({...b, even:i%2===1}));
+
+    // ── Novel ──
+    const chapMeta=this._chapters();
+    const chi=Math.min(this.state.chapter||0, chapMeta.length-1);
+    const setChapter=(n)=>{ this.setState({chapter:n}); window.scrollTo(0,0); };
+    const curChap=chapMeta[chi];
+    const ch1=this._chBlocks(chi+1);
+    const chapTabs=chapMeta.map((c,i)=>({n:c.n, label:('0'+c.n).slice(-2), title:c.title, active:i===chi, fg:i===chi?'#07060a':'#cdbfe6', bg:i===chi?'#9b59b6':'transparent', onClick:()=>setChapter(i)}));
+    const prevChap = chi>0 ? {label:chapMeta[chi-1].title, onClick:()=>setChapter(chi-1)} : null;
+    const nextChap = chi<chapMeta.length-1 ? {label:chapMeta[chi+1].title, onClick:()=>setChapter(chi+1)} : null;
+    const novelTitle=curChap.title.toUpperCase();
+    const novelNum=('0'+curChap.n).slice(-2);
     return {
       view:v,
       isHome:v==='home', isHeroes:v==='heroes', isCards:v==='cards', isSectors:v==='sectors', isNovel:v==='novel', isStory:v==='story',
@@ -422,6 +610,10 @@ class Component extends DCLogic {
       goHome:()=>setView('home'), goHeroes:()=>setView('heroes'), goCards:()=>setView('cards'), goSectors:()=>setView('sectors'), goNovel:()=>setView('novel'), goStory:()=>setView('story'),
       ships, heroShips, currentShip,
       cardTabs, filteredCards, elList,
+      sectorTabs, curSector,
+      storyBeats,
+      ch1,
+      chapTabs, curChap, prevChap, nextChap, novelTitle, novelNum, novelImg:curChap.img, novelSub:curChap.sub, atLastChap:!nextChap,
       pillars:[{num:'124',label:'THẺ BÀI',color:'#ff6b35'},{num:'60',label:'KẺ ĐỊCH',color:'#9b59b6'},{num:'6',label:'KHOANG',color:'#00d4ff'},{num:'3',label:'CON TÀU',color:'#27ae60'}]
     };
   }

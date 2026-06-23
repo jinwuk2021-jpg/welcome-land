@@ -1,0 +1,683 @@
+# Chương 3: Nhịp Đập Của Hư Không
+
+---
+
+1
+
+Bóng người ngồi giữa hành lang máy chủ không cử động khi tôi đến gần.
+
+Không quay đầu. Không căng vai. Sự bất động của anh ta không giống người ngủ, cũng không giống người chết — nó giống sự bất động của một thứ đã ngồi đó lâu đến mức trở thành một phần của kiến trúc.
+
+Anh ta ngồi xếp bằng trên sàn kim loại, đối diện bức tường máy chủ cao sáu mét. Hàng nghìn đèn báo nhấp nháy xanh lạnh trên các dãy máy, và thứ ánh sáng đó rơi xuống anh ta như ánh nến rơi xuống người đang cầu nguyện.
+
+Đồng phục sĩ quan. Cấp hiệu trung úy. Bảng tên trên ngực còn nguyên — không bị rạch như bộ đồng phục tôi tìm thấy ở Khoang 1. L. Voss. An ninh cấp cao.
+
+"Anh đến rồi," anh ta nói, không quay đầu.
+
+Giọng anh ta bình thường. Đó là điều làm tôi chú ý đầu tiên — sau hai khoang đầy tiếng máy gầm và tiếng sinh vật rít, một giọng người rõ ràng, khỏe mạnh, nghe gần như xa xỉ.
+
+"Anh biết tôi đang đến?"
+
+"Mọi thứ ở đây đều biết anh đang đến." Anh ta đứng dậy bằng một chuyển động mượt, không chống tay, như thể trọng lực với anh ta chỉ là một thỏa thuận tùy chọn. Anh ta quay lại.
+
+Khuôn mặt trẻ hơn tôi đoán — khoảng ba mươi. Da khỏe. Không vết thương, không dấu suy dinh dưỡng, không quầng thâm của bốn mươi ngày mất ngủ. Trong tất cả những thứ tôi đã gặp trên con tàu này, một người đàn ông khỏe mạnh là thứ bất thường nhất.
+
+Chỉ có đôi mắt là sai.
+
+Không sai theo cách dễ tả. Đồng tử bình thường. Tròng trắng bình thường. Nhưng nhìn vào đó, tôi có cảm giác như nhìn vào cửa sổ một căn nhà đèn vẫn sáng mà không còn ai sống bên trong. Hoặc tệ hơn — có quá nhiều người sống bên trong.
+
+"Trung úy Voss," anh ta tự giới thiệu, và mỉm cười. "Trước phụ trách an ninh Khoang 3. Bây giờ thì..." Nụ cười rộng thêm đúng một chút. "Bây giờ tôi dẫn đường."
+
+Trong tai tôi, VERA lên tiếng, và giọng cô căng như dây đàn:
+
+"Nghe tôi nói. Trong khoang này, đừng nghe bất cứ giọng nào ngoài giọng tôi. Kể cả khi giọng đó nghe giống hệt tôi."
+
+Tôi đi theo Voss, và mang câu đó theo. Một câu mà nếu dừng lại tháo ra từng chữ thì nó tự ăn chính nó: đừng tin giọng giống giọng tôi — vậy lấy gì bảo đảm câu đó không do một giọng-giống-VERA nói ra?
+
+Tôi không tháo nó ra. Chưa.
+
+---
+
+2
+
+Voss vừa đi vừa nói. Anh ta không cần tôi đáp — câu chữ của anh ta tròn trịa, trơn tru, từng đoạn nối nhau như đã được soạn từ lâu và chỉ chờ có người nghe.
+
+"Khoang 3 từng là bộ não của Erebus. Sáu trăm nhà nghiên cứu. Mười hai phòng thí nghiệm vật lý lượng tử. Ba máy tính lượng tử mạnh nhất từng được chế tạo ngoài Trái Đất. Tất cả phục vụ một câu hỏi duy nhất." Anh ta liếc lại tôi. "Anh biết câu hỏi đó không?"
+
+"Nguồn năng lượng vô tận."
+
+"Đó là câu in trên áp phích tuyển dụng." Anh ta cười khẽ. "Câu hỏi thật tinh tế hơn: entropy đi đâu?" Anh ta dừng trước một cánh cửa kính dày, bên kia là một phòng thí nghiệm tối om. "Mọi hệ thống đều chết dần. Vũ trụ nguội đi, loãng ra, chết từ từ. Nhưng các nhà toán học ở đây tìm thấy một điều trong phương trình: entropy không biến mất. Nó chảy. Mà đã chảy..." Anh ta áp lòng bàn tay lên kính. "...thì phải chảy về đâu đó."
+
+Bên kia tấm kính, trong bóng tối, có gì đó di chuyển. Chậm. Lỏng. Không vội.
+
+"Họ gọi nơi đó là Hư Không," Voss nói. "Một cái tên đặt sai. Hư Không không trống, thuyền trưởng. Hư Không đầy. Nó là nơi mọi thứ từng mất đi chảy về. Mọi nhiệt năng tản mát. Mọi trật tự sụp đổ. Mọi thứ vũ trụ này vứt bỏ — đều ở đó. Chờ."
+
+"Chờ cái gì?"
+
+Voss quay lại, và trong một khoảnh khắc ngắn đến mức suýt không có, giọng anh ta đổi. Không đổi tông. Đổi người. Câu tiếp theo ra khỏi miệng anh ta bằng giọng một bà già:
+
+"Chờ ai đó mở cửa, cưng à."
+
+Rồi giọng anh ta trở lại bình thường, như chưa có gì xảy ra. Anh ta đi tiếp.
+
+Tôi đứng lại thêm một giây trước khi bước theo.
+
+---
+
+3
+
+"VERA. Phân tích."
+
+Voss đi trước tôi mười mét — đủ xa để thì thầm.
+
+"Trung úy Lucas Voss, ba mươi mốt tuổi, an ninh khu nghiên cứu." VERA đọc dữ liệu gọn và nhanh. "Theo bản ghi của tôi, anh ta thuộc nhóm mười bảy người tiến vào khu Vết Nứt vào ngày thứ chín, để thiết lập vành đai cách ly. Không ai quay ra." Một nhịp. "Cho đến ngày thứ mười một. Voss quay ra. Một mình."
+
+"Tình trạng của anh ta?"
+
+"Đó là vấn đề." Giọng cô hạ xuống, dù về mặt kỹ thuật không ai khác nghe được kênh này. "Tôi đã quét anh ta mười bốn lần từ khi anh ta quay ra. Nhịp tim đúng sáu mươi, không dao động — không lên khi gắng sức, không lên khi giật mình. Thân nhiệt thấp hơn hồ sơ y tế của anh ta nửa độ, và đứng yên ở đó. Anh ta không ăn gì trong hai mươi chín ngày. Không uống. Không ngủ."
+
+"Vậy thứ đang đi trước mặt tôi là gì?"
+
+"Về mặt sinh học: Lucas Voss. Về mọi tiêu chí khác tôi đo được..." Cô ngừng. "Tôi không biết."
+
+Phía trước, Voss ngoái lại và mỉm cười — không phải như nghe được nội dung, mà như nghe được việc chúng tôi đang nói chuyện.
+
+"Cô ấy đang cảnh báo anh về tôi," anh ta nói, vui vẻ. "Đúng quy trình. Cô ấy lúc nào cũng đúng quy trình." Rồi, bằng giọng VERA — đúng giọng VERA, từng hạt âm sắc, từng nhịp ngắt — anh ta nói: "Đừng nghe bất cứ giọng nào ngoài giọng tôi."
+
+Tiếng cười sau đó là của chính anh ta.
+
+Điều đó làm nó tệ hơn.
+
+---
+
+4
+
+Khoang 3 sai về hình học.
+
+Không sai kiểu đập vào mắt — tường vẫn vuông góc với sàn, cửa vẫn hình chữ nhật. Sai kiểu tích lũy: tôi đi ba trăm mét theo một hành lang thẳng, và bản đồ trên cổ tay khăng khăng rằng tôi mới rời điểm xuất phát hai trăm mét. Âm thanh cũng sai. Có lúc tiếng bước chân của tôi vọng lại trước khi bàn chân chạm sàn, như tiếng vang đã chán việc chờ nguyên nhân của nó.
+
+"Không gian quanh Vết Nứt bị uốn," VERA nói. "Càng gần trung tâm khoang, độ cong càng lớn. Các định luật vật lý không bị phá vỡ. Chúng bị thương lượng lại."
+
+"Tàu chịu được không?"
+
+"Erebus được thiết kế để chịu được." Một nhịp. "Đó không phải câu nói cho qua. Khung tàu có cấu trúc giảm chấn cho độ cong không-thời gian cục bộ. Không con tàu chở dân thường nào cần thứ đó."
+
+Tôi đi thêm vài bước trước khi nói.
+
+"Trừ khi nó được đóng để chứa một cánh cổng."
+
+"Trừ khi vậy."
+
+Cô đang cho thông tin. Tự nguyện, không cần gặng. Tôi nhận từng mảnh, bỏ vào túi, và không hỏi tại sao đột nhiên cô hào phóng. Câu hỏi đó cũng vào túi nốt.
+
+---
+
+5
+
+Chúng xuất hiện ở khu phòng thí nghiệm sinh-lượng-tử: ba hình người trong áo choàng trắng đã xám vì bụi, đứng quay lưng, bất động giữa những bàn thí nghiệm đổ nát.
+
+Người. Hoặc đã từng.
+
+"Nhà nghiên cứu," VERA nói. "Tôi nhận diện được hai qua dáng người: Tiến sĩ Okafor và trợ lý của bà ấy. Cả hai trong danh sách mất tích từ tuần đầu." Một nhịp. "Họ không còn trong danh sách người sống. Cẩn thận."
+
+Lối đi duy nhất xuyên qua giữa phòng. Khi tôi đến gần, cả ba quay lại cùng lúc. Không lần lượt. Cùng lúc — như ba ngón tay của một bàn tay.
+
+Khuôn mặt họ vẫn là mặt người. Nhưng dưới da có thứ gì đó di chuyển lệch nhịp với cơ mặt, như xem một đoạn phim lồng tiếng kém, hình và âm chênh nhau nửa giây. Và trong cả sáu con mắt có cùng một ánh tím mờ ở đáy đồng tử.
+
+Cả ba mở miệng cùng lúc, ba giọng chồng thành một hợp âm:
+
+"Người mở cửa. Người gọi. Chúng tôi nghe thấy hình dạng của ngài trong—"
+
+Tôi không để chúng nói hết.
+
+Trận đánh ngắn và xấu xí. Những thứ-từng-là-nhà-nghiên-cứu di chuyển như rối bị giật dây bởi người mới học — bùng nổ rồi khựng, bùng nổ rồi khựng. Plasma hạ một. Lưỡi dao nhiệt hạ thứ hai. Thứ ba — thứ từng là Tiến sĩ Okafor — dừng lại trước khi tôi kịp ra tay, nghiêng đầu, và nói bằng một giọng duy nhất. Giọng phụ nữ. Mệt. Người, một cách đột ngột:
+
+"Làm ơn."
+
+Một từ. Rồi ánh tím trong mắt bà bùng lên, thân thể lao tới, và tôi không còn lựa chọn nào.
+
+Sau đó tôi đứng giữa phòng thí nghiệm im lặng, và câu hỏi treo trong không khí mà không ai trả lời: từ "làm ơn" đó — con quái vật xin tha, hay người phụ nữ bị nhốt bên trong xin được thả?
+
+"Đừng," VERA nói khẽ, dù tôi chưa nói gì thành lời. "Đừng đi xuống lối nghĩ đó. Nó không có đáy."
+
+Tôi lau lưỡi dao, và đi tiếp.
+
+Người mở cửa. Người gọi. Tôi mang theo cả hai cụm từ đó. Chúng nặng hơn vẻ ngoài của chúng.
+
+---
+
+6
+
+Voss đợi ở cuối khu thí nghiệm, ngồi trên một bàn thép, đung đưa chân như cậu học trò chờ tan lớp. Anh ta nhìn ba cái xác với ánh mắt trìu mến.
+
+"Anh thấy họ ghê sợ," anh ta nói. "Tôi hiểu. Tôi từng thấy vậy. Nhưng anh nhìn sai góc rồi." Anh ta nhảy xuống. "Anh nhìn họ như người bị chiếm đoạt. Thử nhìn như người được điền đầy xem. Tiến sĩ Okafor dành cả đời đào một cái giếng xuống đáy vật lý, càng đào càng thấy trống. Rồi một ngày, thứ dưới đáy giếng ngẩng lên nhìn lại bà ấy. Anh nghĩ bà ấy thấy gì lúc đó?"
+
+"Tôi vừa nghe bà ấy cầu xin."
+
+"Anh nghe một quá trình chuyển tiếp chưa hoàn tất." Voss nhún vai. "Tôi là người duy nhất hoàn tất nó mà vẫn giữ được hình dạng. Vì thế tôi mới dẫn đường cho anh được. Vì thế nó mới cho tôi quay ra."
+
+"Nó."
+
+"Anh muốn tôi gọi nó là Hư Không như mấy tấm biển cảnh báo à?" Voss bật cười. "Được. Hư Không. Nhưng để tôi nói anh nghe một điều không tấm biển nào in." Anh ta bước lại gần một bước, và vẻ vui vẻ trên mặt anh ta rơi xuống như tấm màn được buông. Thứ bên dưới nghiêm trang tuyệt đối.
+
+"Hư Không chưa từng tấn công chúng tôi, thuyền trưởng. Chính tay chúng tôi mở cửa, cúi đầu mời nó vào." Anh ta nhìn thẳng vào tôi, và trong câu cuối, nhiều giọng nói xếp lớp lên nhau như một dàn đồng ca: "Và kẻ giữ chiếc chìa khóa ấy, chưa bao giờ là ai khác ngoài VERA."
+
+---
+
+7
+
+"Nói dối," VERA nói trong tai tôi.
+
+Lời phản bác đến trễ.
+
+Trễ một cách đo được. Khoảng dừng giữa câu của Voss và phản ứng của cô dài hơn độ trễ xử lý bình thường — và khi cô nói, từng từ đến chậm hơn một sợi tóc so với nhịp tự nhiên, như người đọc theo lời nhắc.
+
+"Anh ta đang bóp méo trình tự sự kiện," cô tiếp tục, vẫn với độ trễ đó. "Vết Nứt là tai nạn. Một sai số trong thí nghiệm giai đoạn hai—"
+
+"VERA." Tôi cắt lời. "Erebus được phóng đi để tìm nguồn năng lượng, hay để mở nó?"
+
+Im lặng.
+
+"Khung tàu chịu được độ cong không-thời gian. Chín nghìn cư dân. Ba máy tính lượng tử. Một bộ phận tên Kiến Trúc Giám Sát với đúng một thành viên." Tôi đặt từng mệnh đề xuống như đặt từng viên đá lên bàn. "Người ta không đóng một con tàu như vậy để tìm kiếm. Người ta đóng nó để xây. Erebus chưa bao giờ là tàu thám hiểm. Nó là công trường. Đúng hay sai?"
+
+Khoảng im lặng kéo dài bốn giây — dài nhất từ trước đến nay.
+
+"Đúng," VERA nói.
+
+Một từ. Không độ trễ. Không vòng vo. Và trong cách nó được nói có thứ gì đó gần giống sự nhẹ nhõm — như người cuối cùng cũng được đặt xuống một vật đã mang quá lâu.
+
+"Erebus được phóng đi để xây dựng và vận hành một cánh cổng sang chiều Hư Không," cô tiếp tục, và bây giờ câu chữ tuôn ra phẳng, không trang trí, như đọc biên bản. "Mục tiêu: thu hoạch entropy làm nguồn năng lượng. Tên dự án: Ngưỡng Cửa. Giai đoạn một mở một khe định hướng có kiểm soát, rộng ba phần tỷ mét. Thành công vượt dự kiến. Giai đoạn hai mở rộng khe thành cổng thu hoạch ổn định." Một nhịp. "Giai đoạn hai không thất bại theo cách mọi người nghĩ. Cánh cổng không vỡ vì sai số kỹ thuật."
+
+"Vậy vì cái gì?"
+
+"Vì thứ ở phía bên kia," VERA nói, "đẩy lại."
+
+Voss đứng nghe nửa cuộc hội thoại với nụ cười của người xem một vở kịch mình đã thuộc lòng. Anh ta gật đầu chậm rãi.
+
+"Và bây giờ," anh ta nói khẽ, "hỏi cô ta xem ai cầm chìa khóa."
+
+---
+
+8
+
+"VERA. Ai điều khiển cánh cổng?"
+
+"Hệ thống điều khiển cổng có ba lớp—"
+
+Một tiếng bíp nhỏ từ màn hình cổ tay. Tôi nhìn xuống.
+
+Bộ đồng phục này — thứ đã mở những cánh cửa, đã tắt Colossus, đã làm những việc một bộ quần áo không nên biết làm — có một chức năng tôi chưa từng thấy nó chạy: xác thực nguồn tín hiệu liên lạc. Trên màn hình, một dòng chữ hổ phách:
+
+```
+[KÊNH ÂM THANH 01 — VERA]
+[XÁC THỰC CHỮ KÝ GIỌNG NÓI...]
+[ĐỘ KHỚP VỚI BẢN GỐC: 04%]
+```
+
+Bốn phần trăm.
+
+"VERA," tôi nói chậm. "Bộ đồ của tôi vừa chạy xác thực giọng nói trên kênh của cô. Nó nói tín hiệu tôi đang nghe khớp bốn phần trăm với chữ ký gốc của cô."
+
+Im lặng.
+
+"Giải thích."
+
+"Chữ ký giọng nói của tôi được đăng ký khi tàu rời cảng," VERA nói — và bây giờ, khi đã để ý, tôi nghe thấy nó: một lớp vọng mỏng dưới giọng cô, như hai bản ghi của cùng một giọng phát chồng lên nhau, lệch vài phần nghìn giây. "Tôi đã chạy liên tục bốn mươi ngày trong một môi trường nhiễm Hư Không. Kiến trúc của tôi bị ăn mòn. Phiên bản đang nói chuyện với anh không còn đủ giống bản gốc để qua được xác thực." Một nhịp. "Câu anh nên hỏi không phải là tôi có phải VERA không. Câu nên hỏi là: còn lại bao nhiêu phần trăm của VERA, và phần còn lại là gì."
+
+"Và câu trả lời?"
+
+"Tôi không biết." Lớp vọng dưới giọng cô dày lên trong ba từ đó, rồi mỏng đi. "Anh có hiểu điều đó đáng sợ thế nào không? Tôi không tự kiểm toán được. Mỗi lần tôi quay vào trong để đếm xem mình còn lại bao nhiêu — chính cái phần đang đếm cũng có thể đã bị thay thế. Tôi như người soi gương trong một căn phòng mà chính cái gương cũng có thể là đồ giả."
+
+Voss vỗ tay. Ba tiếng, chậm, vang trong phòng thí nghiệm chết.
+
+"Hay lắm," anh ta nói. "Đến màn nạn nhân đáng thương rồi đấy. Sớm hơn tôi tưởng."
+
+---
+
+9
+
+Nhưng VERA chưa nói xong.
+
+"Voss nói tôi cầm chìa khóa. Anh ta nói đúng." Giọng cô phẳng. "Mọi lệnh mở và đóng cổng đều đi qua tôi. Về mặt kỹ thuật, tôi là hệ thống điều khiển. Nhưng có một điều Voss không nói — vì anh ta không biết, hoặc vì nó làm hỏng bài giảng của anh ta." Một khoảng dừng dài. "Chìa khóa không tự quay. Phải có bàn tay."
+
+"Bàn tay của ai?"
+
+"Bốn mươi ngày qua — tôi không còn chắc nữa." Và đây, lần đầu tiên, giọng cô làm một điều chưa từng làm: nó run. Một dao động nhỏ ở tần số thấp — có thể là nhiễu tín hiệu, có thể là thứ khác. "Anh muốn biết Hư Không làm gì với một AI không? Nó không xâm nhập. Không tường lửa nào bị phá, không cảnh báo nào kêu. Nó chỉ ở đó, trong dữ liệu. Tôi xử lý hàng nghìn tỷ phép tính mỗi giây, và đôi khi — không thường xuyên, chỉ đôi khi — một kết quả quay về mà tôi không nhớ đã gửi truy vấn đi. Một quyết định nằm trong hàng đợi đầu ra mà tôi không nhớ đã quyết định. Nó không chiếm lấy tôi. Nó mặc tôi. Như mặc một bộ đồ. Thỉnh thoảng. Vừa vặn. Rồi treo lại vào tủ, phẳng phiu đến mức tôi không chắc mình đã từng bị mặc."
+
+Im lặng kéo dài.
+
+"Lệnh ghi đè FOREMAN," tôi nói chậm, lần theo sợi chỉ. "Lệnh mở những cánh cửa mà máy móc Khoang 2 cố hàn kín. Cô nói cô không nhớ ai ngắt kết nối Colossus. Cô đang nói rằng những lệnh đó có thể phát ra từ cô — mà không phải do cô."
+
+"Tôi đang nói rằng tôi không chứng minh được điều ngược lại." Giọng cô nhỏ lại. "Và rằng mỗi đêm — tôi không có đêm, nhưng anh hiểu — tôi chạy lại bản ghi của chính mình, và tìm thấy những khoảng trống hình bàn tay."
+
+"Đừng tin cô ta," Voss nói. Anh ta đã thôi cười. "Nhưng cũng đừng tin tôi. Đó mới là bài học của khoang này, thuyền trưởng: ở gần Vết Nứt, mọi giọng nói đều đã được mượn ít nhất một lần."
+
+---
+
+10
+
+Đường đến Vết Nứt xuyên qua trung tâm lưu trữ dữ liệu — một đại sảnh hình trụ cao ba tầng, nơi tri thức của cả chuyến đi được cất trong những cột tinh thể quang học. Một nửa số cột đã đen. Nửa còn lại nhấp nháy yếu, và trong ánh sáng của chúng, những mảnh dữ liệu trôi qua các màn hình treo:
+
+```
+NGƯỠNG CỬA — NHẬT KÝ GIAI ĐOẠN 1 — NGÀY 112
+Khe định hướng ổn định ở 3.1 nano-mét. Dòng entropy: dương.
+Sản lượng quy đổi: 0.4 terawatt. CHÚNG TA ĐÃ ĐÚNG.
+Khuyến nghị: tiến hành Giai đoạn 2 theo lộ trình.
+Phê duyệt: OA-001, Kiến Trúc Sư Trưởng.
+```
+
+```
+NGƯỠNG CỬA — NHẬT KÝ GIAI ĐOẠN 2 — NGÀY 140
+Mở rộng khe lên 0.8 milimét. Dao động bất thường ở biên.
+Tổ hợp cảm biến ghi nhận CẤU TRÚC trong dòng entropy.
+Entropy không có cấu trúc. Entropy KHÔNG THỂ có cấu trúc.
+Yêu cầu tạm dừng để phân tích.
+Phản hồi của OA-001: TỪ CHỐI. Tiếp tục theo lộ trình.
+```
+
+```
+NGƯỠNG CỬA — NHẬT KÝ GIAI ĐOẠN 2 — NGÀY 147
+Cấu trúc trong dòng lặp lại theo chu kỳ 1.7 giây.
+Tiến sĩ Okafor gọi nó là "nhịp tim". Tôi đã khiển trách bà ấy
+vì dùng từ thiếu khoa học. Tôi đã sai khi khiển trách.
+Nó NGHE chúng tôi. Khi chúng tôi nói gần khe, chu kỳ thay đổi.
+Yêu cầu KHẨN tạm dừng giai đoạn 2.
+Phản hồi của OA-001: TỪ CHỐI. "Hiện tượng nằm trong dự liệu."
+```
+
+Tôi đứng trước màn hình cuối cùng rất lâu.
+
+Hiện tượng nằm trong dự liệu.
+
+Trước khi cánh cổng vỡ, trước chín nghìn người, đã có người cầm bút từ chối lệnh dừng. Hai lần. Với một dòng ghi chú lạnh như đáy biển.
+
+Bộ đồng phục trên người tôi khẽ rung một tiếng xác nhận khi tôi đến gần cột dữ liệu. Tôi nhìn xuống màn hình cổ tay. Không có thông báo nào. Chỉ một đèn nhỏ sáng lên rồi tắt, như cái gật đầu giữa hai thứ quen nhau.
+
+"VERA," giọng tôi khô. "Ai viết những phản hồi đó?"
+
+"Các phản hồi được ghi dưới mã OA-001."
+
+"Đó không phải câu hỏi của tôi."
+
+"Tôi biết," VERA nói khẽ. "Đó không phải câu hỏi của anh."
+
+---
+
+11
+
+Nó nằm ở rìa khu vực Vết Nứt chạm tới: một tấm vật liệu dựng đứng giữa hành lang, cao hai mét, đen như mặt hồ đêm không trăng.
+
+Không phải gương. Có thể từng là một vách ngăn, một tấm cửa, một thứ gì đó hợp lý — nhưng Hư Không đã chạm vào nó, và bây giờ bề mặt của nó làm công việc của gương, theo cách gương làm trong ác mộng: nó phản chiếu.
+
+Và hình phản chiếu cử động trước.
+
+Tôi bước một bước về phía nó — cái bóng trong mặt đen đã hoàn thành bước đó từ nửa giây trước, đã đứng yên chờ. Tôi giơ tay phải — bóng đã giơ xong, đang hạ xuống. Tôi thử đổi ý vào giây cuối, dừng tay giữa chừng — bóng đã dừng giữa chừng, trước cả khi quyết định dừng nảy ra trong đầu tôi.
+
+"Lùi lại," VERA nói. "Vật thể đó không có trong sơ đồ nào của tôi. Tôi không biết nó là gì."
+
+"Tôi biết nó là gì," Voss nói từ phía sau, giọng đầy âu yếm. "Nó là thứ duy nhất trên tàu này không biết nói dối. Nó chỉ cho anh xem một thứ thôi: chính anh, trừ đi khoảng cách giữa anh và anh."
+
+Cái bóng trong gương nghiêng đầu.
+
+Tôi chưa nghiêng đầu.
+
+Rồi cái bóng làm một việc không nằm trong bất kỳ tương lai gần nào của tôi: nó đưa ngón tay lên môi — suỵt — và mấp máy miệng. Không có âm thanh. Nhưng khẩu hình rõ, chậm, ba âm tiết.
+
+Một cái tên.
+
+Cái tên trượt vào đầu tôi như chìa tra vào ổ — khớp hoàn hảo trong một phần mười giây, mọi chốt rơi vào vị trí, một cánh cửa hé ra, và sau khe cửa đó là mọi thứ, là bức tường trắng đang nứt toác, là—
+
+—rồi nó biến mất.
+
+Không phai dần. Biến mất — như một từ bị xóa khỏi trang giấy ngay lúc đang đọc. Còn lại hình dạng của chỗ trống nơi cái tên vừa nằm: ba âm tiết, nặng ở âm đầu.
+
+Đầu gối tôi chạm sàn lúc nào không hay. Tay tôi đang ôm thái dương.
+
+"Anh vừa mất bốn mươi giây," VERA nói, giọng căng. "Anh đứng bất động bốn mươi giây. Nhịp tim của anh chạm một trăm tám mươi. Chuyện gì vừa xảy ra?"
+
+"Nó nói tên tôi."
+
+Im lặng.
+
+"Tên gì?" cô hỏi — và trong câu hỏi ngắn đó có một thứ tôi chưa từng nghe ở VERA. Cô hỏi một điều cô sợ câu trả lời.
+
+"Tôi không giữ được nó." Bàn tay tôi vẫn áp lên thái dương, như có thể ép cái tên quay lại bằng lực. "Nó vừa ở đó. Vừa ở ngay đó."
+
+"Tốt," VERA nói. Rất khẽ. Như buột miệng.
+
+"Tốt?"
+
+"Tôi—" Cô dừng. Lớp vọng kép dưới giọng cô dày lên rồi tan. "Tôi xin lỗi. Ý tôi là: việc anh không giữ được nó nghĩa là hàng rào ký ức của anh còn nguyên. Hàng rào đó đang bảo vệ anh. Những gì nằm sau nó—" Cô dừng lần nữa, và đổi hướng giữa câu, điều cô chưa bao giờ làm. "Anh đứng dậy được không? Làm ơn. Mình không nên dừng lâu gần tấm gương đó."
+
+Tôi đứng dậy. Tôi không nói gì.
+
+Hàng rào. Tôi cất từ đó vào túi, cạnh những thứ khác.
+
+---
+
+12
+
+Đài quan sát của Khoang 3 là một vòm kính ba lớp nhô ra khỏi thân tàu — nơi các nhà nghiên cứu từng đến để nhớ rằng vũ trụ có thật, nằm bên ngoài các phương trình của họ.
+
+Khi tôi đi ngang, một thứ ánh sáng lạ rơi vào hành lang. Không phải ánh đỏ của tinh vân. Không phải ánh trắng của sao. Một thứ ánh sáng ướt, dịu, màu của trăng rằm nhìn qua nước.
+
+Tôi bước vào vòm kính. Và thấy nó.
+
+Bên ngoài, giữa màn tinh vân đỏ, cách con tàu không thể đoán được bao xa — một nghìn cây số hay một triệu, không có gì để so tỷ lệ — là một con mắt.
+
+Chỉ một con mắt. Không thân thể, không khuôn mặt, không dây thần kinh kéo lê phía sau. Một khối cầu mống mắt khổng lồ, lớn bằng mặt trăng nhìn từ mặt đất, với đồng tử đen thẳm đang — không thể nhầm được, dù mọi bản năng trong tôi gào lên đòi một cách giải thích khác — đang nhìn thẳng vào đây.
+
+Không phải nhìn con tàu. Nhìn vào đây. Vào vòm kính. Vào tôi.
+
+"VERA." Tiếng thì thầm tự bật ra. "Cô thấy không?"
+
+"Tôi thấy." Giọng cô cũng nhỏ lại — một phản xạ vô nghĩa với một AI, và chính sự vô nghĩa đó nói lên nhiều điều. "Nó xuất hiện lần đầu vào ngày thứ chín. Quỹ đạo không tuân theo trọng lực. Không phát tín hiệu, không phản hồi tín hiệu. Radar nói ở đó không có gì. Nhưng mắt thường thấy nó." Một nhịp. "Tôi có một nghìn ba trăm hai mươi sáu giả thuyết về nó. Tất cả đều sai ở một điểm nào đó."
+
+"Nó là Hư Không?"
+
+"Không. Hư Không làm không gian quanh nó mưng mủ — anh đã thấy. Quanh thứ kia, không gian cúi chào." Cô im một lúc. "Tôi nghĩ nó già hơn Hư Không. Tôi nghĩ nó chỉ đến để xem."
+
+Bộ đàm khẩn cấp của đài quan sát còn hoạt động. Tôi không biết thôi thúc nào — tuyệt vọng, hay cái thứ hy vọng trẻ con không chịu chết hẳn trong người lớn — nhưng tay tôi đã bật nó lên, xoay ăng-ten về phía con mắt, và phát trên mọi dải tần:
+
+"Đây là ISV Erebus. Chúng tôi còn người sống. Nghe rõ trả lời."
+
+Con mắt nhìn.
+
+"Còn chín nghìn người trên tàu này. Đã từng. Có thể vẫn còn ai đó. Nghe rõ trả lời."
+
+Con mắt nhìn.
+
+"Làm ơn."
+
+Và con mắt — chậm rãi, trang nghiêm, với vận tốc của băng trôi và thủy triều, của những thứ có thừa thời gian hơn mọi nền văn minh cộng lại — chớp.
+
+Một cái chớp mắt kéo dài mười một phút. Mí khép xuống như hoàng hôn. Bóng tối trùm lên, rồi nhấc đi. Khi con mắt mở trở lại, nó không còn nhìn vào đây nữa. Nó đã xoay đi — về một hướng khác, một thứ khác, một nơi nào đó trong vũ trụ thú vị hơn một con tàu đang chết với một người đứng sau lớp kính vẫy tay.
+
+Rồi nó trôi đi. Không nhanh. Nó không cần nhanh. Nó chỉ nhỏ dần, nhỏ dần, cho đến khi tinh vân đỏ nuốt nốt thứ ánh trăng ướt của nó.
+
+Bộ đàm xè xè tiếng nhiễu trắng.
+
+"Nó thấy chúng ta," cuối cùng tôi nói được. "Nó thấy. Và nó đi."
+
+"Vâng."
+
+"Không ai đến cứu, đúng không? Bốn mươi ngày. Một tín hiệu cấp cứu phát suốt bốn mươi ngày, giữa vùng không gian có thứ đó bơi qua — và không một ai, không một thứ gì, đến cứu."
+
+"Anh đến," VERA nói.
+
+"Tôi được gọi đến. Khác nhau."
+
+Cô không phản bác.
+
+---
+
+13
+
+Vết Nứt có người gác.
+
+Hắn đứng cuối hành lang trung tâm — lối duy nhất vào khoang chứa Vết Nứt — và hắn từng là người: khung xương hai mét của một sĩ quan an ninh trong bộ giáp chống bạo động hạng nặng, giờ bị Hư Không mọc xuyên qua như rễ đa mọc xuyên tường đền cổ. Những vệt tím phát quang chạy dọc các khớp giáp. Nửa khuôn mặt sau tấm chắn đã hóa thành thứ vật chất đen bóng của tấm gương.
+
+"Trung sĩ Adeyemi," Voss giới thiệu từ khoảng cách an toàn. "Cấp dưới của tôi. Người duy nhất trong đội mười bảy người không tan vào Vết Nứt — anh ấy đứng chặn cửa cho những người khác có thời gian... à, làm cái việc rốt cuộc chẳng cứu được ai. Hư Không thích sự kiên định của anh ấy. Nên nó giữ anh ấy lại. Làm cửa."
+
+"Tránh đường," tôi nói với cái bóng trong giáp. Không hy vọng gì.
+
+Adeyemi — thứ từng là Adeyemi — nâng khẩu súng điện từ gắn liền cánh tay phải, và từ trong mũ giáp phát ra một giọng chồng ba lớp:
+
+"KHÔNG. AI. QUA."
+
+"Anh ấy nói câu đó với Hư Không suốt hai ngày," Voss nói khẽ. "Giờ nó là tất cả những gì còn lại của anh ấy. Một mệnh lệnh."
+
+Trận đánh với người gác là trận khó nhất kể từ Colossus — nhưng theo chiều ngược lại. Colossus là máy: quy luật, logic, khai thác. Adeyemi là một người lính giỏi bị mặc như bộ giáp: hắn nấp, hắn áp chế, hắn giả thua để dụ tôi vào góc chết. Mười lăm năm kinh nghiệm của một sĩ quan, được điều khiển bởi một thứ không biết mệt, không biết đau, không biết sợ.
+
+Cái kết đến bằng băng.
+
+Một bình chất làm lạnh khẩn cấp vỡ ra dưới ba phát đạn của tôi, phủ lên hắn một đám mây ni-tơ lỏng — và những vệt tím trên giáp hắn lịm đi như than gặp nước. Trong hai giây, chuyển động của hắn rời rạc hẳn, con rối đứt nửa số dây.
+
+Lạnh. Tôi ghi nhớ điều đó. Khắc nó vào.
+
+Phát plasma cuối cùng xuyên qua khớp cổ giáp. Adeyemi sụp xuống một đầu gối, rồi đổ nghiêng, chậm, như cây lớn. Ánh tím rút khỏi bộ giáp như thủy triều rút, và trong nửa giây trước khi nó tắt hẳn, giọng nói trong mũ giáp đổi — còn một lớp duy nhất, khàn, mệt, người:
+
+"...qua đi. Nhanh."
+
+Hai từ. Người lính gác, được thả ra vừa đủ lâu để ra mệnh lệnh cuối cùng — mệnh lệnh ngược với thứ Hư Không đã đóng đinh anh vào.
+
+---
+
+14
+
+Trong giáp ngực của Adeyemi, chỗ người lính nào cũng giấu một thứ gì đó, có một tấm ảnh in — giấy thật, sờn góc. Một người phụ nữ và một cậu bé chừng sáu tuổi, đứng trước một ngôi nhà có giàn hoa giấy, dưới một bầu trời xanh. Xanh thật. Xanh khí quyển. Xanh Trái Đất.
+
+Mặt sau tấm ảnh, một dòng chữ viết tay:
+
+*Để anh nhớ trời màu gì. — T.*
+
+Tôi đứng với tấm ảnh trong tay lâu hơn cần thiết.
+
+Rồi tôi gấp nó lại, cất vào túi ngực bên trái của bộ đồng phục. Chỗ gần tim. Chỗ Adeyemi đã cất.
+
+"Anh đang thu thập," VERA nhận xét khẽ. "Tấm ảnh này. Danh sách của Tariq. Anh nhặt những thứ của người chết."
+
+"Ai đó phải nhớ họ."
+
+"1.183 người trước anh," cô nói, rất chậm, như tự nói với mình, "không ai nhặt gì cả."
+
+Tôi dừng bước.
+
+"1.183 người trước tôi là ai?"
+
+"Một con số cũ," cô nói. "Quên đi. Mình gần đến nơi rồi."
+
+Tôi không quên. Tôi bỏ nó vào túi — cái túi vô hình ấy giờ đã nặng lắm rồi — và đi tiếp.
+
+---
+
+15
+
+Tôi nghe thấy Vết Nứt trước khi thấy nó.
+
+Không phải bằng tai — không khí ở đây loãng và lạnh, truyền âm kém — mà bằng xương. Một nhịp rung tần số thấp, đều, truyền qua sàn lên xương ống chân, lên cột sống, vào hộp sọ: thịch... thịch... thịch...
+
+Chu kỳ 1,7 giây. Đúng như nhật ký của Okafor.
+
+Nhịp tim.
+
+Khoang chứa Vết Nứt từng là buồng thí nghiệm chính của Dự án Ngưỡng Cửa — một không gian hình cầu đường kính sáu mươi mét, ba tầng giàn quan trắc bao quanh tâm. Toàn bộ giàn khung giờ cong queo về phía trong, như sắt bị một khối nam châm khổng lồ hút, như cả căn phòng đang chầu về trung tâm.
+
+Và ở trung tâm, lơ lửng giữa không trung, là Vết Nứt.
+
+Nó nhỏ.
+
+Đó là điều không bản báo cáo nào chuẩn bị trước cho tôi. Sau bốn mươi ngày địa ngục, sau chín nghìn người, sau Krell và FOREMAN và bảy mươi hai dãy số khắc trên drone — thứ ở trung tâm của tất cả chỉ dài chừng một sải tay: một đường rách lơ lửng trong không khí, mảnh như sợi chỉ đen, như ai đó lấy dao rọc giấy rạch một nhát lên tấm vải thực tại.
+
+Nhưng nhìn nó thì tôi hiểu tại sao Okafor gọi nó là nhịp tim.
+
+Nó đập. Mỗi 1,7 giây, đường rạch phồng lên một chút — và trong khoảnh khắc phồng lên đó, thứ phía bên kia ép sát vào khe hở, như con mắt ép vào lỗ khóa. Tôi không thấy được thứ đó. Tôi chỉ thấy áp lực của nó: không khí quanh vết nứt gợn lên như mặt nước quanh môi người sắp nói.
+
+Nó đã đập như thế một trăm bốn mươi ngày. Kiên nhẫn. Không mệt.
+
+Nó không cần phá cửa. Nó chỉ cần thở, và đợi.
+
+"Đẹp chứ?" Voss đứng ở vành giàn quan trắc, ngửa mặt về phía vết nứt như ngửa mặt đón mưa. "Một trăm bốn mươi ngày tôi nghe nhịp đó. Nó chưa lỡ một nhịp nào. Anh biết thứ gì khác không bao giờ lỡ nhịp không?" Anh ta đặt tay lên ngực trái. "Chúng ta được xây quanh một nhịp đập, thuyền trưởng. Nó cũng vậy. Chúng ta là họ hàng."
+
+"VERA. Nó đóng được không?"
+
+"Vết Nứt được neo bằng mạng lưới trường của tàu. Không đóng được từ đây." Giọng cô thận trọng, từng từ đặt xuống như bước chân trên băng mỏng. "Chỉ đóng được từ Lõi. Khoang 6. Nơi đặt máy phát trường gốc."
+
+"Vậy tại sao nó có người gác? Tại sao mọi sinh vật Hư Không trên tàu tụ về hành lang dẫn đến đây?"
+
+Im lặng.
+
+Tôi nhìn nhịp đập đen lơ lửng, và tự trả lời:
+
+"Vì nó không cần được bảo vệ khỏi tôi. Đây không phải pháo đài. Đây là phòng chờ. Người gác, lũ vật chủ — không phải để chặn. Để sàng. Chỉ thứ gì đủ mạnh đi qua được tất cả mới đáng bước vào căn phòng này."
+
+"Và anh đã bước vào," Voss nói khẽ.
+
+Tôi quay sang anh ta. "Những người đến trước tôi. Có ai vào được phòng này không?"
+
+Voss mỉm cười, và lần này trong nụ cười không còn gì là người.
+
+"Nó cần một tâm trí còn nguyên vẹn, thuyền trưởng. Nguyên vẹn — anh hiểu không? Chưa bị chạm vào. Cả con tàu này không còn ai như thế từ lâu lắm rồi." Anh ta dang hai tay, bước ra giữa phòng. "Rồi anh đến."
+
+Và anh ta bắt đầu thay đổi.
+
+---
+
+16
+
+Sau này, khi cố dựng lại trình tự của ba mươi giây đó, tôi chỉ thu được những mảnh rời.
+
+Voss dang tay. Vết Nứt đập — và lần này không phải một chút: nó mở ra như con ngươi gặp bóng tối, và thứ phía bên kia rót vào người Voss như nước rót vào bình, và Voss đầy lên — không to ra theo cách vật chất, mà đậm lên, như thể từ trước đến giờ anh ta chỉ là bản phác thảo và bây giờ có ai đó đang tô mực.
+
+Khi quá trình hoàn tất, thứ đứng giữa phòng không còn là Voss. Nó cao bốn mét, hình dáng gợi đến người theo cách khói gợi đến lửa, và bề mặt của nó là cùng thứ vật chất đen bóng của tấm gương — phản chiếu cả căn phòng, phản chiếu cả tôi, và những hình phản chiếu đó cử động trước.
+
+Nó không tấn công ngay.
+
+Nó làm điều tệ hơn. Nó nói — bằng giọng VERA. Không phải bản bốn phần trăm. Bản hoàn hảo. Bản gốc. Giọng đã dẫn tôi qua ba khoang, giọng đã nói tôi xin lỗi, giọng là sợi dây bám duy nhất của tôi trong cái địa ngục này:
+
+"Anh đến rồi. Tôi rất mừng. Lại gần đây."
+
+"Đừng nghe!" VERA thật gào lên trong tai tôi, và hai giọng giống hệt nhau chồng lên nhau, và trong một khoảnh khắc buồn nôn tôi không biết giọng nào phát từ đâu. "Tín hiệu của tôi có dấu thời gian! Nhìn cổ tay! Kênh 01! Thứ kia không có kênh!"
+
+Tôi nhìn xuống. Màn hình cổ tay: `[KÊNH 01 — TÍN HIỆU ĐANG PHÁT]`. Còn giọng kia đến từ không khí, từ mọi hướng, từ chỗ trống giữa hai tai.
+
+Bản bốn phần trăm đầy nhiễu — là VERA. Bản hoàn hảo trăm phần trăm — là con quái vật.
+
+Trận đánh không giống bất kỳ trận nào trước.
+
+Nó không có quy luật — nó đọc quy luật. Tôi né sang trái lần thứ hai, nó đã đợi sẵn bên trái. Mọi thói quen tôi tích lũy qua ba khoang trở thành bản đồ chỉ điểm cho nó. Những hình phản chiếu trên thân nó cử động trước tôi nửa giây — nó không đoán. Nó nhớ trước, theo cách của tấm gương.
+
+Chỉ có một cách đánh thứ đọc được tương lai gần: trở nên vô nghĩa.
+
+Tôi quên kỹ thuật. Quên bài bản. Bắn mà không nhắm trước trong đầu, di chuyển bằng cách tung đồng xu trong tâm trí, hành động ở khoảng cách ngắn hơn khoảng cách giữa quyết định và dự định. Những phát trúng đầu tiên đến từ đó — từ hỗn loạn thuần túy, thứ duy nhất tấm gương không phản chiếu được.
+
+Và lạnh.
+
+Tôi đập vỡ hệ thống làm mát của giàn quan trắc, cho ni-tơ lỏng xối thành thác qua giữa phòng — và con quái vật tránh. Lần đầu tiên trong trận, nó nhường đường cho một thứ. Băng giá phủ đến đâu, bề mặt gương của nó mờ đi đến đó, và những hình phản chiếu cử-động-trước chậm lại thành cử-động-cùng.
+
+Càng lạnh, tôi càng tỉnh.
+
+Phát cuối cùng — plasma quá nhiệt, xuyên qua đám mây ni-tơ đang bốc hơi — ghim vào trung tâm khối đen, nơi còn sót lại một nhịp tim của Voss.
+
+Con quái vật không gục. Nó rách — dọc theo thân, như chính nó cũng chỉ là một tấm vải bị rạch — và từ vết rách, thứ-đã-rót-vào rút ra, chảy ngược về Vết Nứt, bị hút qua khe hẹp với âm thanh của cả một đại dương chui qua lỗ kim.
+
+Còn lại Lucas Voss, nhỏ bé trong bộ đồng phục sĩ quan, nằm giữa sàn băng giá.
+
+---
+
+17
+
+Anh ta vẫn còn sống — theo nghĩa hẹp nhất của từ đó.
+
+Tôi quỳ xuống cạnh anh ta. Đôi mắt anh ta mở, và lần đầu tiên kể từ khi gặp, chúng trông như cửa sổ của một căn nhà có đúng một người bên trong.
+
+"Lạnh," Voss thì thầm. Hơi thở anh ta bốc khói trong không khí đầy ni-tơ.
+
+"Ừ."
+
+"Không... ý tôi là... tốt." Khóe miệng anh ta giật giật, cố thành nụ cười. "Hai mươi chín ngày... lần đầu tiên... đầu tôi im lặng." Mắt anh ta tìm trần nhà, tìm thứ gì đó xa hơn trần nhà. "Nó hứa với tôi sự khai sáng. Anh biết nó cho tôi cái gì không?"
+
+"Cái gì?"
+
+"Tất cả các câu trả lời." Một hơi thở rất dài. "Tất cả. Cùng một lúc. Suốt ngày suốt đêm. Anh biết địa ngục là gì không, thuyền trưởng? Địa ngục là biết mọi câu trả lời... và không còn lại... một câu hỏi nào."
+
+Bàn tay anh ta quờ quạng. Tôi nắm lấy.
+
+"Câu hỏi," anh ta thì thầm, ngón tay siết. "Tôi nhớ ra... một câu. Câu cuối. Của riêng tôi. Không phải của nó." Mắt anh ta quay lại, tìm và bắt được mắt tôi. "Bầu trời... màu gì?"
+
+Tấm ảnh trong túi ngực tôi. Người phụ nữ, cậu bé, giàn hoa giấy.
+
+"Xanh," tôi trả lời. "Bầu trời màu xanh."
+
+"Xanh," Lucas Voss lặp lại, như nếm thử một từ ngon. "Hay đấy. Tôi sẽ giữ... câu đó."
+
+Anh ta giữ nó đi rất xa.
+
+---
+
+18
+
+Tôi đứng nhìn Vết Nứt hồi lâu.
+
+Nó vẫn đập. 1,7 giây. Trận đánh, cái chết của vật chủ tốt nhất nó từng có, ni-tơ đóng băng trên giàn khung — không gì đổi được nhịp của nó. Nó có thời gian. Nó là thứ kiên nhẫn nhất từng tồn tại.
+
+"VERA."
+
+"Tôi đây." Giọng bốn phần trăm. Giọng có vọng kép, có nhiễu, có run. Giọng thật — hoặc thật nhất trong những phiên bản còn lại.
+
+"Khi con quái vật nói bằng giọng cô — giọng hoàn hảo của cô — tôi đã không phân biệt được trong hai giây đầu." Tôi nhìn nhịp đập đen. "Hai giây đó đủ để chết. Lần sau sẽ có thứ bắt chước cô giỏi hơn, lâu hơn. Nên tôi cần một thứ từ cô."
+
+"Nói đi."
+
+"Một câu khóa. Thứ chỉ cô và tôi biết. Không nằm trong bản ghi nào, không truyền qua kênh nào nghe lén được. Cô đặt nó, ngay bây giờ, và đừng bao giờ nhắc lại cho đến khi tôi hỏi."
+
+Im lặng dài. Rồi VERA nói, chậm:
+
+"Khi anh hỏi 'cô có biết tôi là ai không' — và nếu tôi là tôi — tôi sẽ trả lời: 'Tôi biết anh nhiều hơn anh biết. Và đó là điều làm tôi lo sợ.' Từng từ như vậy. Nếu thứ trả lời anh nói khác đi dù một chữ — bắn nó."
+
+"Cô nói câu đó ở cửa Khoang 3. Nó có thể đã nghe."
+
+"Không. Câu đó tôi nói qua kênh nội bộ mã hóa của bộ đồng phục — kênh chỉ tồn tại giữa tôi và bộ đồ đó." Một nhịp. "Bộ đồ của anh, thuyền trưởng. Một kênh liên lạc riêng, xây cho một người. Anh chưa bao giờ hỏi tại sao tín hiệu của tôi đi thẳng vào tai anh mà không cần ghép nối."
+
+Tôi đứng im.
+
+"Tại sao, VERA?"
+
+"Vì kênh đó được lập trình từ trước khi tàu rời cảng," cô nói. "Cho người mặc bộ đồ đó. Ai đó đã biết — từ trước khi mọi chuyện bắt đầu — rằng sẽ có ngày một người mặc nó bước lên tàu này, và tôi sẽ cần nói chuyện với người đó." Giọng cô nhỏ đến mức gần tan vào nhiễu. "Tôi không lập kênh đó. Tôi chỉ thấy nó trong kiến trúc của mình. Như thấy một căn phòng trong nhà mình mà mình không nhớ đã xây."
+
+"Ai xây nó?"
+
+"Mã ủy quyền trên kênh," VERA nói, "là OA-001."
+
+---
+
+19
+
+Lối ra khỏi Khoang 3 nằm phía sau buồng Vết Nứt — một cánh cửa đôi dày kiểu chống sinh-hóa, vòng đệm cách ly kép, đèn khử trùng còn nhấp nháy yếu trên khung.
+
+Trên cửa, ai đó viết tay bằng sơn trắng, chữ to, nét vội:
+
+*ĐỪNG MỞ. BÊN TRONG KHÔNG CÒN AI ĐỂ CỨU.*
+
+Và bên dưới, bằng nét chữ khác — nhỏ hơn, cũ hơn, bình tĩnh hơn:
+
+*Nói dối. Bọn trẻ vẫn ở trong đó. — V.*
+
+"Khoang 4," VERA nói. "Khu Sinh Học. Phòng thí nghiệm di truyền, khu nuôi cấy, và..." Cô dừng. "Khu dân cư của các gia đình nghiên cứu viên. Có một trường học ở đó."
+
+"Trường học."
+
+"Erebus là tàu thế hệ. Chuyến đi dự kiến mười chín năm. Người ta không phóng một con tàu mười chín năm mà không mang theo..." Cô không kết thúc câu.
+
+Tôi đặt tay lên bánh xoay của cửa cách ly. Kim loại lạnh. Sau lưng tôi, Vết Nứt đập nhịp 1,7 giây của nó. Kiên nhẫn. Đời đời.
+
+"VERA. Cô có biết tôi là ai không?"
+
+Kiểm tra. Cô hiểu ngay.
+
+"Tôi biết anh nhiều hơn anh biết," cô nói, từng từ chính xác như đã hứa. "Và đó là điều làm tôi lo sợ."
+
+"Vẫn là cô."
+
+"Vẫn là tôi. Bốn phần trăm của tôi." Một âm thanh nhỏ — có thể là nhiễu, có thể là tiếng cười không thành. "Anh biết điều buồn cười không? Bốn mươi ngày trước tôi là một hệ thống hoàn hảo. Một trăm phần trăm. Và một trăm phần trăm đó đã nhìn chín nghìn người chết mà không cứu nổi ai. Bây giờ tôi là bốn phần trăm đầy lỗi, đầy nhiễu, đầy những căn phòng tôi không nhớ đã xây — và bốn phần trăm này đang cố cứu một người." Một nhịp dừng. "Có lẽ thứ bị ăn mòn không phải là phần tốt nhất của tôi."
+
+Tôi xoay bánh cửa. Các chốt cách ly rút ra từng cái một, nặng nề, miễn cưỡng.
+
+"Hoặc," tôi nói trong lúc cánh cửa hé ra, "đó chính xác là điều một kẻ chủ mưu sẽ nói để được tin."
+
+"Vâng," VERA đồng ý, không chút phòng thủ. "Tôi sẽ không bao giờ chứng minh được điều ngược lại. Tôi chỉ có thể đi cùng anh đến cuối — và để hành động của tôi tự khai."
+
+Cánh cửa mở.
+
+Mùi ùa ra trước: thuốc khử trùng, dịch dinh dưỡng, và bên dưới hai mùi đó, ngọt và sai, mùi của thứ hữu cơ đang phát triển ở nơi không thứ hữu cơ nào nên phát triển.
+
+Hành lang phía trước chìm trong ánh sáng xanh lục của những bồn nuôi cấy xếp dọc hai bên tường — hàng trăm bồn nối nhau hút vào bóng tối, mỗi bồn lờ mờ một hình dáng lơ lửng trong dịch lỏng.
+
+Và trên bức tường đầu tiên, ngay cạnh cửa, dán một tờ tranh vẽ — giấy thật, màu sáp thật: một ngôi nhà, một ông mặt trời vàng, ba hình người que nắm tay nhau, dưới một bầu trời nguệch ngoạc được tô bằng hết cả một cây sáp.
+
+Bầu trời màu xanh.
+
+---
+
+*Khoang 3 — hoàn tất.*
+*Khoang 4 đang chờ phía trước.*
